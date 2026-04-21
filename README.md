@@ -38,11 +38,9 @@ AI               Prompt Engineering · NLP/LLM · Claude Code · Workflow Automa
 
 ---
 
-## Currently Looking For | מחפש כרגע
-
-תפקיד עם **בעלות אמיתית, השפעה ואופק ניהולי** בישראל —
-ניהול תפעול · Product Operations · Product Owner · ניהול שירות · ראש צוות
-
+## Currently Looking For 
+ מוכן למעבר לתפקיד עם אחריות, בעלות על תחום והשפעה ניהולית אמיתית.
+מתמקד בתפקידי ניהול תפעול, Product Operations ו-Product Owner בישראל.
 ---
 
 📍 Jerusalem, Israel &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/amit-rubin-316b83357/) &nbsp;|&nbsp; 📧 amitrubin60@gmail.com
